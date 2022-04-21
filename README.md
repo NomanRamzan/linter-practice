@@ -1,8 +1,3 @@
-@@ -1,2 +1,36 @@
-
-# hello-microverse ![](https://img.shields.io/badge/Microverse-blueviolet)
-
-Its my first learning of linters
 
 # Hello Microverse
 
